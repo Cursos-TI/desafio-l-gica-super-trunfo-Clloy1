@@ -1,18 +1,18 @@
 Logica Super Trunfo
 
-  //  Inclusão de bibliotecas //
+  //  Inclusão de bibliotecas 
 
 - O código começa incluindo a biblioteca stdio.h, que permite a entrada e saída de dados.
 
-     // Declaração de variáveis //
+     // Declaração de variáveis 
 
 - São declaradas variáveis para armazenar os dados dos países, como nome, população, área, PIB e pontos.
 
-       // Leitura de dados//
+       // Leitura de dados
 
 - O código lê os dados dos países, como nome, população, área, PIB e pontos, utilizando a função scanf.
 
-       // Escolha de atributos//
+       // Escolha de atributos
 
 - O código pede ao usuário para escolher dois atributos para comparar os países.
 - Os atributos podem ser população, área, PIB ou pontos.

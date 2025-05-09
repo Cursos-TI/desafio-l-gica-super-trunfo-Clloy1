@@ -5,7 +5,7 @@ int main() {
     int populacao1, populacao2, area1, area2, pib1, pib2, pontos1, pontos2;
     int soma1, soma2;
 
-    // Leitura dos dados
+    // Leitura de Dados
     printf("Digite os dados da carta 1:\n");
     printf("Pais: ");
     scanf("%s", pais1);
